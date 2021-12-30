@@ -83,9 +83,6 @@ export default {
       // const n = diagramInstance.nodes[2]
       // n.offsetX = 2000
       // n.offsetY = 2000
-
-      // let bound = new Rect(200, 400, 500, 400);
-      // diagramInstance.bringToCenter(bound);
     }
   },
   mounted() {
