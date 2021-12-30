@@ -18,10 +18,10 @@ export default {
     }
   },
   created() {
-    console.log('InputNode created')
+    // console.log('InputNode created')
   },
   mounted() {
-    console.log('InputNode mounted')
+    // console.log('InputNode mounted')
   }
 }
 </script>
