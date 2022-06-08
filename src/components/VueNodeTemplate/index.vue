@@ -231,7 +231,7 @@ export default {
         // node.parentObj.doLayout()
         diagramInstance.dataBind()
         diagramInstance.doLayout()
-      //   // diagramInstance.dataBind()
+      //  diagramInstance.dataBind()
       },3000)
 
       setTimeout(()=>{
