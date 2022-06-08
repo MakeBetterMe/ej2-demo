@@ -16,13 +16,13 @@ export function createConnector(id,sourceId,targetId){
 }
 
 
-export function createNode(id){
+export function createNode(id,height=80){
   return {
     id: id,
-    width: 200,
-    height: 80,
-    offsetX:1000,
-    offsetY:1000,
+    width: 100,
+    height,
+    // offsetX:1000,
+    // offsetY:1000,
     // shape: {
     //   type: 'HTML',
     // }
